@@ -1,4 +1,4 @@
-// 1.
+// 1. Jared Patterson
 // Complete the following function
 // It should return `true` if the first argument is greater than the second and `false` if not
 // Use the greater than operator `>`
